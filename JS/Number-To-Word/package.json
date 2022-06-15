@@ -1,0 +1,14 @@
+{
+  "name": "number-to-word",
+  "version": "1.0.0",
+  "description": "convert number (integer) into word",
+  "main": "index.js",
+  "author": "Jomariel Gaitera <jojogaitera@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
